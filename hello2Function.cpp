@@ -1,3 +1,7 @@
+/*
+* hello2Function.cpp
+*
+*/
 #include<iostream>
 using namespace std;
 int hello2Function(string name2)
